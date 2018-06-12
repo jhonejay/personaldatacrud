@@ -1,0 +1,11 @@
+C:\Users\Jhone Jay\Desktop\crud\PersonalData\PersonalData\bin\Debug\PersonalData.exe.config
+C:\Users\Jhone Jay\Desktop\crud\PersonalData\PersonalData\bin\Debug\PersonalData.exe
+C:\Users\Jhone Jay\Desktop\crud\PersonalData\PersonalData\bin\Debug\PersonalData.pdb
+C:\Users\Jhone Jay\Desktop\crud\PersonalData\PersonalData\obj\Debug\PersonalData.csprojResolveAssemblyReference.cache
+C:\Users\Jhone Jay\Desktop\crud\PersonalData\PersonalData\obj\Debug\PersonalData.PersonalData.resources
+C:\Users\Jhone Jay\Desktop\crud\PersonalData\PersonalData\obj\Debug\PersonalData.Properties.Resources.resources
+C:\Users\Jhone Jay\Desktop\crud\PersonalData\PersonalData\obj\Debug\PersonalData.csproj.GenerateResource.Cache
+C:\Users\Jhone Jay\Desktop\crud\PersonalData\PersonalData\obj\Debug\PersonalData.exe
+C:\Users\Jhone Jay\Desktop\crud\PersonalData\PersonalData\obj\Debug\PersonalData.pdb
+C:\Users\Jhone Jay\Desktop\crud\PersonalData\PersonalData\bin\Debug\MySql.Data.dll
+C:\Users\Jhone Jay\Desktop\crud\PersonalData\PersonalData\bin\Debug\MySql.Web.dll
